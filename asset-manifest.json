@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LakshyaprasadR_CH20B061/static/css/main.a617e044.chunk.css",
+    "main.js": "/LakshyaprasadR_CH20B061/static/js/main.64d3c7f8.chunk.js",
+    "main.js.map": "/LakshyaprasadR_CH20B061/static/js/main.64d3c7f8.chunk.js.map",
+    "runtime-main.js": "/LakshyaprasadR_CH20B061/static/js/runtime-main.d52f6141.js",
+    "runtime-main.js.map": "/LakshyaprasadR_CH20B061/static/js/runtime-main.d52f6141.js.map",
+    "static/js/2.bc160bc8.chunk.js": "/LakshyaprasadR_CH20B061/static/js/2.bc160bc8.chunk.js",
+    "static/js/2.bc160bc8.chunk.js.map": "/LakshyaprasadR_CH20B061/static/js/2.bc160bc8.chunk.js.map",
+    "static/js/3.7a8ad93e.chunk.js": "/LakshyaprasadR_CH20B061/static/js/3.7a8ad93e.chunk.js",
+    "static/js/3.7a8ad93e.chunk.js.map": "/LakshyaprasadR_CH20B061/static/js/3.7a8ad93e.chunk.js.map",
+    "index.html": "/LakshyaprasadR_CH20B061/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/LakshyaprasadR_CH20B061/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.bc160bc8.chunk.js.LICENSE.txt": "/LakshyaprasadR_CH20B061/static/js/2.bc160bc8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/LakshyaprasadR_CH20B061/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d52f6141.js",
+    "static/js/2.bc160bc8.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.64d3c7f8.chunk.js"
+  ]
+}
